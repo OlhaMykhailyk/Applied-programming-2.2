@@ -1,0 +1,7 @@
+1. запустити програму
+2. ввести людей у командному рядку. прикл:
+add {"id":1,"name":"Ivan","age":21,"group":"MI-11","grades":[90,85,100],"address":{"city":"Kyiv"},"active":true}
+add {"id":2,"name":"Anna","age":19,"group":"MI-12","grades":[70,80],"address":{"city":"Lviv"},"active":false}
+add {"id":3,"name":"Oleh","age":23,"group":"MI-11","grades":[100,95],"address":{"city":"Kyiv"},"active":true}
+3. приклад пошуку: find age > 20
+4. результат за цим пошуком: Ivan, Oleh
